@@ -1,0 +1,5 @@
+myDict={
+"c":"moderate"
+"c++":"tough"
+print(myDict("c"))
+del myDict("c++")
